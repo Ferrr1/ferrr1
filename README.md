@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓  I'm currently studying at Muhammadiyah Gresik University.
+👨‍🎓 Graduate as Informatics Engineering
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ferrr1&label=Profile%20views&color=0e75b6&style=flat" alt="maulanaferi" /> </p>
 
 ## 🌐 Socials:
